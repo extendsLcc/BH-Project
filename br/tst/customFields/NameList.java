@@ -15,7 +15,6 @@ public class NameList extends JList<Item>{
 	
 	/**
 	 * 		Mostrar lista de nomes da tabela, saber dizer quem é id da tabela que representa aquele nome
-	 * 
 	 * */
 	
 	private DefaultListModel<Item> listModel = new DefaultListModel<Item>();
